@@ -44,3 +44,4 @@ output/
 !output/.gitkeep
 !output/audio/.gitkeep
 !output/clips/.gitkeep
+google_credentials.json

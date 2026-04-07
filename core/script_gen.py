@@ -100,6 +100,6 @@ def generate_script(topic: str) -> dict:
 
 
 if __name__ == "__main__":
-    result = generate_script("how black holes form")
+    result = generate_script("how satellites rotate around the earth")
     print("\nFull JSON output:")
     print(json.dumps(result, indent=2))

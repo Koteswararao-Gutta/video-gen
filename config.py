@@ -7,7 +7,7 @@ load_dotenv()
 
 # --- Gemini ---
 GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
-GEMINI_MODEL = "gemini-3.1-flash-lite-preview"  # or "gemini-2.0-flash" for a cheaper option
+GEMINI_MODEL = "gemini-3.1-flash-lite-preview"  #" for a cheaper option
 
 # --- Google TTS ---
 GOOGLE_APPLICATION_CREDENTIALS = os.getenv("GOOGLE_APPLICATION_CREDENTIALS")

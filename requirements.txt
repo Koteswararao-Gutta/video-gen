@@ -1,0 +1,7 @@
+google-genai
+google-cloud-texttospeech==2.16.3
+requests==2.32.3
+pydub==0.25.1
+srt==3.5.3
+python-dotenv==1.0.1
+ffmpeg-python==0.2.0
